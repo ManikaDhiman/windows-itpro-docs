@@ -755,9 +755,9 @@ Added in Windows 10, version 1903. Allows IT admins to configure the Microsoft J
 <!--SupportedValues-->
 The following list shows the supported values:
 
-- 0 (default) - Allows you to configure which Microsoft Japanese IME version to use. The new Microsoft IME is configured by default.
+- 0 (default) - Allows you to configure which Microsoft Japanese IME version to use. The new Microsoft IME version is configured by default.
 - 1 - Does not allow you to configure which Microsoft Japanese IME version to use. The previous version of Microsoft Japanese IME is always selected.
-- 2 - Does not allow you to configure which Microsoft Japanese IME version to use. The new Microsoft Japanese IME is always selected.
+- 2 - Does not allow you to configure which Microsoft Japanese IME version to use. The new Microsoft Japanese IME version is always selected.
 
 <!--/SupportedValues-->
 <!--/Policy-->
@@ -809,9 +809,9 @@ Added in Windows 10, version 1903. Allows IT admins to configure the Microsoft S
 <!--SupportedValues-->
 The following list shows the supported values:
 
-- 0 (default) - Allows you to configure which Microsoft Simplified Chinese IME version to use. The new Microsoft IME is configured by default.
+- 0 (default) - Allows you to configure which Microsoft Simplified Chinese IME version to use. The new Microsoft IME version is configured by default.
 - 1 - Does not allow you to configure which Microsoft Simplified Chinese IME version to use. The previous version of Microsoft Simplified Chinese IME is always selected.
-- 2 - Does not allow you to configure which Microsoft Simplified Chinese IME version to use. The new Microsoft Simplified Chinese IME is always selected.
+- 2 - Does not allow you to configure which Microsoft Simplified Chinese IME version to use. The new Microsoft Simplified Chinese IME version is always selected.
 
 <!--/SupportedValues-->
 <!--/Policy-->
@@ -865,9 +865,9 @@ Added in Windows 10, version 1903. Allows IT admins to configure the Microsoft T
 <!--SupportedValues-->
 The following list shows the supported values:
 
-- 0 (default) - Allows you to configure which Microsoft Traditional Chinese IME version to use. The new Microsoft IME is configured by default.
+- 0 (default) - Allows you to configure which Microsoft Traditional Chinese IME version to use. The new Microsoft IME version is configured by default.
 - 1 - Does not allow you to configure which Microsoft Traditional Chinese IME version to use. The previous version of Microsoft Traditional Chinese IME is always selected.
-- 2 - Does not allow you to configure which Microsoft Traditional Chinese IME version to use. The new Microsoft Traditional Chinese IME is always selected.
+- 2 - Does not allow you to configure which Microsoft Traditional Chinese IME version to use. The new Microsoft Traditional Chinese IME version is always selected.
 
 <!--/SupportedValues-->
 <!--/Policy-->
