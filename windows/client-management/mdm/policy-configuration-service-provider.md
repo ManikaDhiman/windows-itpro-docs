@@ -4985,18 +4985,18 @@ The following diagram shows the Policy configuration service provider in tree fo
 -   [WirelessDisplay/RequirePinForPairing](./policy-csp-wirelessdisplay.md#wirelessdisplay-requirepinforpairing)
 
 <!--StartHoloLens-->
-## <a href="" id="hololenspolicies"></a>Policies supported by Windows Holographic for Business  
+## <a href="" id="hololenspoliciesbusiness"></a>Policies supported by Windows Holographic for Business  
 
 -   [Accounts/AllowMicrosoftAccountConnection](#accounts-allowmicrosoftaccountconnection)  
 -   [ApplicationManagement/AllowAllTrustedApps](#applicationmanagement-allowalltrustedapps)  
 -   [ApplicationManagement/AllowAppStoreAutoUpdate](#applicationmanagement-allowappstoreautoupdate)  
 -   [ApplicationManagement/AllowDeveloperUnlock](#applicationmanagement-allowdeveloperunlock)  
 -   [Authentication/AllowFastReconnect](#authentication-allowfastreconnect)  
--   [Authentication/PreferredAadTenantDomainName​](#authentication-preferredaadtenantdomainname)
+-   [Authentication/PreferredAadTenantDomainName](#authentication-preferredaadtenantdomainname)
 -   [Bluetooth/AllowAdvertising](#bluetooth-allowadvertising)  
 -   [Bluetooth/AllowDiscoverableMode](#bluetooth-allowdiscoverablemode)  
 -   [Bluetooth/LocalDeviceName](#bluetooth-localdevicename)
--   [Browser/AllowAutofill​](#browser-allowautofill)
+-   [Browser/AllowAutofill](#browser-allowautofill)
 -   [Browser/AllowCookies](#browser-allowcookies)  
 -   [Browser/AllowDoNotTrack](#browser-allowdonottrack)  
 -   [Browser/AllowPasswordManager](#browser-allowpasswordmanager)  
@@ -5004,9 +5004,9 @@ The following diagram shows the Policy configuration service provider in tree fo
 -   [Browser/AllowSearchSuggestionsinAddressBar](#browser-allowsearchsuggestionsinaddressbar)  
 -   [Browser/AllowSmartScreen](#browser-allowsmartscreen)  
 -   [Connectivity/AllowBluetooth](#connectivity-allowbluetooth)  
--   [Connectivity/AllowUSBConnection​](#connectivity-allowusbconnection)
+-   [Connectivity/AllowUSBConnection](#connectivity-allowusbconnection)
 -   [DeviceLock/AllowIdleReturnWithoutPassword](#devicelock-allowidlereturnwithoutpassword)  
--   [DeviceLock/AllowSimpleDevicePassword](#devicelock-allowsimpledevicepassword) 
+-   [DeviceLock/AllowSimpleDevicePassword](#devicelock-allowsimpledevicepassword)
 -   [DeviceLock/AlphanumericDevicePasswordRequired](#devicelock-alphanumericdevicepasswordrequired)  
 -   [DeviceLock/DevicePasswordEnabled](#devicelock-devicepasswordenabled)  
 -   [DeviceLock/DevicePasswordHistory](#devicelock-devicepasswordhistory)  
@@ -5027,7 +5027,7 @@ The following diagram shows the Policy configuration service provider in tree fo
 -   [Update/AllowUpdateService](#update-allowupdateservice)  
 -   [Update/RequireDeferUpgrade](#update-requiredeferupgrade)  
 -   [Update/RequireUpdateApproval](#update-requireupdateapproval)
--   [Update/ScheduledInstallDay​](#update-scheduledinstallday)  
+-   [Update/ScheduledInstallDay](#update-scheduledinstallday)  
 -   [Update/ScheduledInstallTime](#update-scheduledinstalltime)
 -   [Update/UpdateServiceUrl](#update-updateserviceurl)
 -   [Wifi/AllowManualWiFiConfiguration](policy-csp-wifi.md#wifi-allowmanualwificonfiguration)
